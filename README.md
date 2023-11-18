@@ -10,7 +10,7 @@ Long Description about project. This project do that. This project is awesome...
 [link to video](https://youtu.be/XoEWY11FpUQ)
 ## How it Works ?
 1. A to-do list simplifies task management. You add tasks, check them off as completed with checkboxes, edit or delete as needed, and easily view what's left to do or what's already done. It's a straightforward tool for organizing daily tasks and tracking progress, offering a clear overview of your to-dos.
-2. [![Video Preview]]([flet-video](https://youtu.be/XoEWY11FpUQ))
+2. [![Video Preview]]([flet-video.mp4](https://youtu.be/XoEWY11FpUQ))
 ## Libraries used
 pip install flet
 ## How to configure
