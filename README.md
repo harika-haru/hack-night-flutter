@@ -10,7 +10,7 @@ Long Description about project. This project do that. This project is awesome...
 [link to video](https://youtu.be/XoEWY11FpUQ)
 ## How it Works ?
 1. A to-do list simplifies task management. You add tasks, check them off as completed with checkboxes, edit or delete as needed, and easily view what's left to do or what's already done. It's a straightforward tool for organizing daily tasks and tracking progress, offering a clear overview of your to-dos.
-2. Embed video of project demo
+2. [![Video Preview]]([flet-video](https://youtu.be/XoEWY11FpUQ))
 ## Libraries used
 pip install flet
 ## How to configure
@@ -27,12 +27,4 @@ Execute the Python file containing the code in a Python environment.
    4. Edit tasks by clicking the edit icon associated with each task.
    5. Delete tasks using the delete icon.
 ## How to Run
-1. Create a Python File:
-  1. Open a text editor.
-  2. Paste the provided Python code into a new file.
-  3. Save the file with a .py extension, like todo_app.py.
-2. Open Terminal or Command Prompt: Launch Terminal or Command Prompt.
-3. Run the Python File:
-   1. Navigate to the directory containing todo_app.py using the cd command.
-   2. Type python todo_app.py  and hit Enter.
-   3. Interact with the to-do list using the provided interface to add, edit, complete, or delete tasks.
+python3 main.py
