@@ -27,4 +27,4 @@ Execute the Python file containing the code in a Python environment.
    4. Edit tasks by clicking the edit icon associated with each task.
    5. Delete tasks using the delete icon.
 ## How to Run
-python3 main.py
+python3 app.py
